@@ -27,7 +27,7 @@ from markov_music.midi_io import HAND_NAMES, piece_to_notes_sets, read_midi_seco
 from markov_music.plots import save_piano_roll
 from markov_music.sections import train_section_model
 
-DEFAULT_ORDER = {"melody": 2, "outer": 1, "piano": 1}      # justificativa: experiment_midi.py / README
+DEFAULT_ORDER = {"melody": 2, "outer": 1, "piano": 1}      # justificativa: experiment_midi.py (docs/undertale_orders.csv)
 DEFAULT_MAX_COPY = 0.3                                     # corpus de terceiros: anti-plágio ligado por padrão
 
 

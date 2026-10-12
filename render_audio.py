@@ -6,7 +6,7 @@
     python render_audio.py musica.mid --timbre chiptune        # timbres: organ (padrão), piano, chiptune
 
 Usa o sintetizador embutido (órgão aditivo + reverb, só NumPy). Se preferir um timbre
-mais realista, use o FluidSynth com um soundfont -- veja a seção "Áudio" do README.
+mais realista, abra o .mid num programa com soundfont (MuseScore, FluidSynth, um DAW).
 """
 import argparse
 from pathlib import Path

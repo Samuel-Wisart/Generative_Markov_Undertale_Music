@@ -4,7 +4,7 @@ Não é um sintetizador realista: cada nota é uma soma de harmônicos com ataqu
 mais uma reverberação. Três timbres: "organ" (órgão, bom para corais), "piano" (decaimento
 natural) e "chiptune" (onda quadrada, estilo videogame).
 O arquivo .mid continua sendo o resultado "oficial" do sistema; o áudio é só para audição.
-Para um timbre melhor, use FluidSynth + soundfont (veja o README).
+Para um timbre mais realista, abra o .mid num programa com soundfont (MuseScore, FluidSynth, um DAW).
 """
 from __future__ import annotations
 

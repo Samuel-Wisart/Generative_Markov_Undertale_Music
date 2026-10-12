@@ -50,7 +50,7 @@ Os dados vêm de `experiment_midi.py` (Undertale) e `experiment_orders.py` (Bach
   reproduz trechos inteiros do corpus) e o corpus em si ficam no `.gitignore` por direitos autorais. O texto já diz
   "(not distributed)" para o grupo D. Confira o que será enviado com `git status` antes do primeiro `push`.
 - [ ] **AI Usage Statement:** descreva o que **você** fez (o que estudou, modificou, verificou, decidiu) e cole os
-  **links das conversas** com a IA. A declaração do `README.md` (seção 11) deve dizer o mesmo.
+  **links das conversas** com a IA. A declaração do `README.md` (seção "Declaração de uso de IA") deve dizer o mesmo.
 - [ ] **Conferir as referências** que **não** foram verificadas online: Ames (1989) e os livros de Hiller & Isaacson
   (1959) e Krumhansl (1990). A trilha de Undertale (Fox, 2015) só foi conferida em fontes secundárias. As demais
   (Pachet 2003; Pachet & Roy 2011; Papadopoulos et al. 2014; Cuthbert & Ariza 2010; Hadjeres et al. 2017; Allan &

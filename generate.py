@@ -23,7 +23,7 @@ from markov_music.generator import COPY_K, TEXTURES, train_model
 from markov_music.midi_io import CHURCH_ORGAN, piece_to_notes, read_midi_seconds, write_midi
 from markov_music.plots import save_piano_roll
 
-DEFAULT_ORDER = {"satb": 1, "melody": 2}      # justificativa: veja o README (seção "Escolha da ordem")
+DEFAULT_ORDER = {"satb": 1, "melody": 2}      # justificativa: experiment_orders.py (docs/order_experiment.csv)
 
 
 def parse_args(argv=None) -> argparse.Namespace:

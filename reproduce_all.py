@@ -5,7 +5,7 @@
 
 Recria as peças de `examples/` (MIDI + WAV + piano-roll + JSON) e a figura/tabela do
 experimento de ordem em `docs/`. Como todas as sementes são fixas, o resultado é o mesmo
-em qualquer máquina com as mesmas versões de Python e music21 (veja o README).
+em qualquer máquina com as mesmas versões de Python e music21 (veja requirements.txt).
 """
 from pathlib import Path
 
@@ -14,7 +14,7 @@ import generate
 
 EXAMPLES = Path("examples")
 
-# (pasta, argumentos do generate.py) -- cada linha é um "experimento" descrito no README
+# (pasta, argumentos do generate.py) -- cada linha é um experimento
 RUNS = [
     # A) MESMA configuração, sementes diferentes -> peças diferentes
     ("A_sementes_diferentes", ["--texture", "satb", "--mode", "major", "--order", "1", "--seed", "1", "--count", "3"]),

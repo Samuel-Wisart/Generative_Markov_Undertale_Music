@@ -86,7 +86,7 @@ def test_statistics():
 
 
 def test_readme_toy_example_order_1_invents_order_2_copies():
-    """O exemplo didático do README: a ordem 1 recombina; a ordem 2 só reproduz o treino."""
+    """Exemplo de brinquedo: a ordem 1 recombina os trechos; a ordem 2 só reproduz o treino."""
     melodies = [["Dó", "Ré", "Mi", "FIM"], ["Sol", "Ré", "Si", "FIM"]]
 
     def possible_outputs(order):

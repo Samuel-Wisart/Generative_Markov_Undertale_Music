@@ -45,3 +45,6 @@ examples_undertale/D_sem_antiplagio/
 Thumbs.db
 .vscode/
 .idea/
+
+# Cópia local do README didático antigo (só para consulta; não faz parte da entrega)
+README_didatico.md
