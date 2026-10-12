@@ -1,0 +1,18 @@
+{
+  "order": 1,
+  "texture": "piano",
+  "form": "AABA",
+  "bars": 4,
+  "seed": 3,
+  "temperature": 1.0,
+  "max_copy": 0.3,
+  "beats_per_bar": 4,
+  "bpm": 120,
+  "program": 0,
+  "timbre": "piano",
+  "events": 120,
+  "notes": 213,
+  "seconds": 31.7,
+  "copy_k": 6,
+  "copied_from_corpus": 0.146
+}

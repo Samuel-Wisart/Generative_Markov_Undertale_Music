@@ -1,0 +1,17 @@
+{
+  "order": 4,
+  "texture": "melody",
+  "mode": "major",
+  "phrases": 5,
+  "seed": 7,
+  "temperature": 1.0,
+  "max_copy": 0.3,
+  "bpm": 76,
+  "fermata": 1.5,
+  "program": 19,
+  "events": 32,
+  "notes": 32,
+  "seconds": 31.6,
+  "copy_k": 6,
+  "copied_from_corpus": 0.0
+}

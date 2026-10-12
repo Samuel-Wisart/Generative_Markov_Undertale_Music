@@ -1,0 +1,47 @@
+# ---------------------------------------------------------------------------------------
+# O repositório entregue contém só: código (markov_music/, *.py, tests/), README.md,
+# requirements*.txt, docs/ (resultados), paper/ (resumo ISMIR) e as peças geradas
+# (examples/ e examples_undertale/, com os áudios exigidos pelo enunciado).
+# Tudo abaixo fica FORA da entrega.
+# (Atenção: no .gitignore, comentário só vale em linha própria, nunca depois do padrão.)
+# ---------------------------------------------------------------------------------------
+
+# Ambiente Python (cada pessoa cria o seu: veja o README)
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Gerado automaticamente ao rodar o projeto:
+# corpora já processados (contêm as notas do corpus de terceiros)
+.cache/
+# saída padrão de generate.py e generate_midi.py
+output/
+
+# LaTeX: arquivos auxiliares da compilação (o PDF paper/ismir_summary.pdf É entregue)
+paper/*.aux
+paper/*.log
+paper/*.bbl
+paper/*.blg
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.out
+paper/*.synctex.gz
+paper/figs/novelty_preview.png
+
+# Material de terceiros: NÃO entregar (direitos autorais)
+# corpus MIDI do Undertale (obtenha-o à parte: veja o README)
+data/
+# "Undertale MIDI.zip" original
+*.zip
+# enunciado do professor
+tp1_geracao_musical_simbolica_1-1.pdf
+# peças geradas SEM anti-plágio: reproduzem seções inteiras do corpus
+examples_undertale/D_sem_antiplagio/
+
+# Sistema e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,17 @@
+{
+  "order": 2,
+  "texture": "satb",
+  "mode": "major",
+  "phrases": 5,
+  "seed": 4,
+  "temperature": 1.0,
+  "max_copy": 0.3,
+  "bpm": 76,
+  "fermata": 1.5,
+  "program": 19,
+  "events": 50,
+  "notes": 146,
+  "seconds": 31.6,
+  "copy_k": 8,
+  "copied_from_corpus": 0.056
+}

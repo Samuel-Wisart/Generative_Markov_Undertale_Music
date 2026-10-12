@@ -1,0 +1,4 @@
+# Dependências do projeto (testado com Python 3.14, music21 10.5, numpy 2.5, matplotlib 3.11)
+music21>=9.1        # manipulação simbólica: corpus de Bach, análise de tonalidade, MIDI
+numpy>=1.24         # síntese de áudio e cálculos
+matplotlib>=3.7     # piano-roll e gráficos do experimento

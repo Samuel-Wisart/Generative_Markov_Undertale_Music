@@ -1,0 +1,18 @@
+{
+  "order": 1,
+  "texture": "outer",
+  "form": "AABA",
+  "bars": 4,
+  "seed": 2,
+  "temperature": 1.0,
+  "max_copy": 0.3,
+  "beats_per_bar": 4,
+  "bpm": 120,
+  "program": 0,
+  "timbre": "chiptune",
+  "events": 130,
+  "notes": 169,
+  "seconds": 32.0,
+  "copy_k": 8,
+  "copied_from_corpus": 0.087
+}
