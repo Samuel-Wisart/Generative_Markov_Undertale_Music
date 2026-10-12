@@ -44,7 +44,7 @@ def pct(x):
 
 
 def figure(rows):
-    fig, axes = plt.subplots(1, 3, figsize=(6.8, 1.85), sharey=True)
+    fig, axes = plt.subplots(1, 3, figsize=(6.8, 1.65), sharey=True)
     handles = None
     for ax, (texture, _, title) in zip(axes, TEXTURES):
         rs = [r for r in rows if r["texture"] == texture]

@@ -56,7 +56,11 @@ Os dados vêm de `experiment_midi.py` (Undertale) e `experiment_orders.py` (Bach
   (Pachet 2003; Pachet & Roy 2011; Papadopoulos et al. 2014; Cuthbert & Ariza 2010; Hadjeres et al. 2017; Allan &
   Williams 2005; Donahue et al. 2018; Ferreira & Whitehead 2019) foram conferidas em fontes online.
 - [ ] **Reler tudo** e conferir se cada afirmação do texto é algo que você entende e consegue defender.
-- [ ] Ao terminar, **recompile e confirme que o conteúdo continua em 2 páginas** (hoje sobram ~9 linhas na página 2).
+- [ ] Ao terminar, **recompile e confirme que o conteúdo continua em 2 páginas**. Hoje a página 2 termina com a seção
+  Ethics Statement e sobram só ~2 linhas: qualquer texto novo empurra o fim da Ethics (ou da AI Usage Statement) para a
+  página 3. Se isso acontecer, encurte alguma frase ou legenda (cada linha cortada em uma legenda de tabela/figura
+  libera duas linhas de texto, uma em cada coluna). Essas duas seções não entram no limite do ISMIR, mas assim fica
+  claro para quem avalia que o conteúdo cabe em 2 páginas.
 
 ## Detalhes do template
 
