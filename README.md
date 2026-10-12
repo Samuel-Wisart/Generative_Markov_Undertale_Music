@@ -122,17 +122,3 @@ pytest -q                             # 47 testes, ~7 s (não precisam do corpus
 ```
 
 ---
-
-## Declaração de uso de IA
-
-> **Preencha antes de entregar.** O enunciado exige declarar o que foi usado e para quê, **com links das conversas**,
-> e proíbe gerar automaticamente *na íntegra* a implementação do método ou o resumo. Descreva com honestidade o que
-> foi gerado pela IA e o que você escreveu, modificou e entendeu.
-
-* **Ferramenta:** Claude Code (Anthropic), modelo Claude Sonnet 5.5.
-* **Para quê foi usada:** estruturação do projeto e escrita do código-fonte (cadeia de Markov, corpus de Bach,
-  corpus MIDI do Undertale, geração, MIDI, áudio, experimentos e testes), do rascunho do resumo ISMIR e deste
-  README, a partir do enunciado do TP1.
-* **O que eu fiz / revisei / alterei:** *(descrever aqui: o que você estudou, testou, modificou, as decisões que
-  tomou, o que ouviu e avaliou)*.
-* **Links das conversas:** *(colar aqui os links)*.

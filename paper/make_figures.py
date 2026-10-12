@@ -40,7 +40,7 @@ def load(path):
 
 
 def pct(x):
-    return "--" if x in ("", None) else f"{100 * float(x):.0f}"
+    return "n/a" if x in ("", None) else f"{100 * float(x):.0f}"
 
 
 def figure(rows):
